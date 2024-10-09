@@ -1,0 +1,35 @@
+nav {
+    padding: 5px;
+    display: grid;
+    grid-template-columns: 0.5fr 1fr 1fr;
+    column-gap: 7px;
+    background-color: lightgray;
+}
+
+img {
+    margin: 7px;
+    border-radius: 100%;
+    border: 1px solid black;
+}
+
+.nav-text {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15pt;
+}
+
+p,a {
+    font-size: 12pt;
+}
+
+footer {
+    text-align: right;
+    padding: 7px;
+    color: darkred;
+}
+
+.container {
+    border: 2px solid darkred;
+    padding: 10px;
+    text-align: justify;
+    border-radius: 1%;
+}
